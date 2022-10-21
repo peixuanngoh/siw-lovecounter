@@ -1,0 +1,35 @@
+body {
+	background-color: #381416;
+	color: #ffffff;
+	text-align: center;
+
+}
+
+h1 {
+	color: #ffffff;
+	font-size: 300%;
+	text-align: center;
+}
+
+h2 {
+	color: #FFFFFF;
+	font-size: 200%;
+	text-align: center;
+}
+
+.tryagain {
+	background-color: #381416;
+	color: #381416;
+	border: none;
+}
+
+.hits {
+	font-size: 150%;
+	font-weight: bolder;
+}
+
+img {
+	width: 75%;
+	margin: auto;
+	display: block;
+}
